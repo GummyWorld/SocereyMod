@@ -1,0 +1,12 @@
+//Items
+item.mindstone_ingot.name=Mindstone Ingot
+item.sunfire_ingot.name=Sunfire Ingot
+
+//Blocks
+tile.mindstone_block.name=Mindstone Block
+
+//Tools
+item.mindstone_sword.name=Mindstone Sword
+
+//Food
+item.magical_popsicle.name=Magical Popsicle

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "MMM",
+        "MMM"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "sm:mindstone_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sm:mindstone_block",
+        "count": 1
+    }
+}
